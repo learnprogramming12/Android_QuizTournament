@@ -1,8 +1,12 @@
 # Android_QuizTournament
 This android app is an assignment. 
+
 Develop an Android quiz application using OpenTDB (https://opentdb.com/) with following features 
+
 a. There must be two types of users, admin and player.
+
 b. Admin user:
+
 1.Log into the application using an email/username & password.
 2.Create a new quiz tournament. Fields include name, category, difficulty, start date & end date.
 3.A quiz tournament consists of 10 questions dynamically fetched from the OpenTDB (https://opentdb.com/). Using either Retrofit or Volley. Questions can be multi-choice, true/false or a mixture of both. 
