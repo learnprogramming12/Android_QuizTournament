@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">miniproject</string>
+    <string name="status_participated">participated</string>
+    <string name="status_past">past</string>
+    <string name="status_upcoming">upcoming</string>
+    <string name="status_ongoing">ongoing</string>
+    <string name="status_unknown">unknown</string>
+
+    <string-array name="category_items">
+        <item>Music</item>
+        <item>Video Games</item>
+        <item>Nature</item>
+        <item>Computers</item>
+    </string-array>
+    <string-array name="difficulty_items">
+        <item>easy</item>
+        <item>medium</item>
+        <item>hard</item>
+    </string-array>
+</resources>
